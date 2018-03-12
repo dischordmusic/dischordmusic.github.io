@@ -1,5 +1,5 @@
 # Thanks for checking out the DisChord Music station!
-[![](https://avatars0.githubusercontent.com/u/37293836?s=200&v=4&raw=true)]
+![](https://avatars0.githubusercontent.com/u/37293836?s=200&v=4&raw=true)
 
 [![](https://discordapp.com/api/guilds/422458952421474306/widget.png?style=banner3&raw=true)](https://discord.gg/bDyu2qe)
 ## Questions
