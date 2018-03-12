@@ -1,10 +1,11 @@
 # Thanks for checking out the DisChord Music station!
-![](https://avatars0.githubusercontent.com/u/37293836?s=200&v=4&raw=true)
+[![](https://avatars0.githubusercontent.com/u/37293836?s=200&v=4&raw=true)]
 
+[![](https://discordapp.com/api/guilds/422458952421474306/widget.png?style=banner3&raw=true)](https://discord.gg/bDyu2qe)
 ## Questions
 
-### Why can't I talk?
-This is a music station ONLY! No one will be talking here. This is simply a 24/7 copyright-free music station for content creators to use in their videos.
+### Why can't I talk in the Discord server?
+This is a music station ONLY! No one will be talking. This is simply a 24/7 copyright-free music station for content creators to use in their videos.
 
 ### What is the point of this station?
 This station exists to help content creators play music in the back of their videos or livestreams.
