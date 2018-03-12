@@ -1,4 +1,5 @@
 # Thanks for checking out the DisChord Music station!
+![](https://avatars0.githubusercontent.com/u/37293836?s=200&v=4&raw=true)
 
 ## Questions
 
