@@ -19,4 +19,6 @@
 <div>Of course, you don't have to be a content creator to jam along with us. We're always open for listeners!</div>
 <p></p>
 <div>Whether you're a listener or a content creator, there's always something for you. Join our station and jam along at <a href="https://discord.gg/hvU9Rz8">https://discord.gg/hvU9Rz8</a></div>
+<p></p>
+<div>We have a place to let you look at almost all of our channels, which is available <a href="https://dischordmusic.github.io/chat.md">here</a></div>
 
