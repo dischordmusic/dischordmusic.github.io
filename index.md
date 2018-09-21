@@ -1,6 +1,4 @@
-<!doctype HTML>
-<head>
-<body>
+
   <script src="https://crate.widgetbot.io/v2" defer async data-cfasync="false">new Crate({"server":"422458952421474306","channel":"422708323184541711","options":"1003"})</script>
   <h1>Thanks for checking out the DisChord music station!</h1>
   <h2>To begin your journey, click the little Discord button down there in the bottom-right corner.</h2>
@@ -21,6 +19,4 @@
 <div>Of course, you don't have to be a content creator to jam along with us. We're always open for listeners!</div>
 <p></p>
 <div>Whether you're a listener or a content creator, there's always something for you. Join our station and jam along at <a href="https://discord.gg/hvU9Rz8">https://discord.gg/hvU9Rz8</a></div>
-  
-</body>
-</head>
+
