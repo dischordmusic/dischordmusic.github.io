@@ -1,5 +1,11 @@
 
-  <script src="https://crate.widgetbot.io/v2" defer async data-cfasync="false">new Crate({"server":"422458952421474306","channel":"422708323184541711","options":"1003"})</script>
+  <script src="https://cdn.jsdelivr.net/npm/@widgetbot/crate@3" defer async data-cfasync="false">
+new Crate({
+"server":"422458952421474306",
+"channel":"422708323184541711",
+"options":"1003"})
+crate.notify({content: 'Thanks for checking out DisChord Music!', timeout: 5000, avatar: 'https://cdn.discordapp.com/icons/422458952421474306/adbf57eee1fcba103ca1cec2baa41b4f.webp'})
+</script>
   <h1>Thanks for checking out the DisChord music station!</h1>
   <h2>To begin your journey, click the little Discord button down there in the bottom-right corner.</h2>
   <h3>If you're still not convinced by:</h3>
